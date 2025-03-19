@@ -159,7 +159,7 @@
 
             <div class="hero-section">
                 <div class="hero-content">
-                    <h1 class="text-4xl font-bold mb-4">Ruben</h1>
+                    <h1 class="text-4xl font-bold mb-4">BIENVENIDOS</h1>
                     <p class="text-xl mb-8">Centro de Formación SENA - Solicita y administra espacios y recursos de manera eficiente</p>
                     @if (Route::has('login'))
                         @auth
